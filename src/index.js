@@ -1,5 +1,7 @@
 const fs = require('fs-extra');
+const { resolve } = require('path');
 const Airtable = require('airtable');
+const normalize = require('./normalize');
 
 const client = new Airtable({
   apiKey: process.env.AIRTABLE_API_TOKEN,
@@ -8,20 +10,28 @@ const client = new Airtable({
 
 const base = client.base(process.env.AIRTABLE_API_BASE);
 
-function loadResourse(table) {
-  console.log('start', table);
+/**
+ * @param {string} tableName
+ * @returns {Promise<void>}
+ */
+function loadResourse(tableName) {
+  console.log('start', tableName);
 
   return fs
     .ensureDir('out')
     .then(() =>
-      base(table)
+      base(tableName)
         .select()
         .all(),
     )
-    .then(tableResult => fs.writeJSON(`out/${table}.json`, tableResult))
-    .then(() => console.log('complete', table));
+    .then(tableData => {
+      const filePath = resolve('out', `${tableName.toLowerCase()}.json`);
+      const normalizedData = normalize(tableName, tableData);
+      fs.writeJSON(filePath, normalizedData);
+    })
+    .then(() => console.log('complete', tableName));
 }
 
-return Promise.all(
+Promise.all(
   ['Meetups', 'Talks', 'Speakers', 'Companies', 'Venues', 'DevRels'].map(loadResourse),
 );
