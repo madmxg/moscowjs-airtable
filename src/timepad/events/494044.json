@@ -1,0 +1,134 @@
+{
+  "id": 494044,
+  "created_at": "2017-05-16T16:44:43+0300",
+  "starts_at": "2017-05-25T19:00:00+0300",
+  "ends_at": "2017-05-25T21:30:00+0300",
+  "name": "MoscowJS 37",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p> </p>\n\n<p><strong>Доклады:</strong></p>\n\n<p> </p>\n\n<ul><li class=\"p1\"><span style=\"font-size:16px;\">Typescript + webpack: эволюция сборки SPA​</span><br /><br />\n\tНебольшой рассказ о том, как небольшой интернет-банк начинался на Jquery и React (es5) и дорос до Typescript'а и nodejs: out of memory. И когда наступит точка невозврата, при росте 30% кода в релиз.​<br /><br /><em>Александр Черников, Сбербанк Технологии</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Интерактивные 3D-карты своими руками​</span><br /><br />\n\tКогда компания разрастается, встает необходимость навигации, поиска коллег, оргтехники, переговорок в офисе. Чтобы решить эту проблему, можно нарисовать двухмерный план помещений и даже добавить интерактив с привязкой к базе данных сотрудников. Но намного эффектнее и нагляднее сделать карту трехмерной. В своем докладе я опишу полностью процесс создания WebGL визуализации, начиная от создания модели в трехмерном редакторе и заканчивая оптимизациями из мира компьютерных игр, что поможет вам разработать собственный интерактивный 3D-проект.​<br /><br /><em>Александр Амосов, Avito</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Как, черт возьми, надо ревьювить​</span><br /><br />\n\tРазработчики все ещё иногда рыщут в поисках философского камня, который позволит им повысить качество кода. Это может быть тестирование, статический анализ кода или какой-нибудь другой инструмент, но все они ограничены в плане обнаружения недочетов. В докладе я хочу рассказать про ревью - про то, как изменилось моё отношение к этому процессу и как, на мой взгляд, сделать его наиболее эффективным.​<br /><br /><em>Иван Стрелков,  Avito</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Цена пропущенного фрейма​</span><br /><br />\n\tИ снова говорим об анимации. Рынок hardware развивается семимильными шагами, новые 4-х ядерные Андроиды уже мощнее, чем мой ноутбук четырёхлетней давности. Но, несмотря на все вычислительные мощности, многие анимации в вебе продолжают быть дёргаными и неопрятными. Что заставляет браузер пропускать фреймы? Такие понятия, как отрисовка на GPU, композиция слоёв, анимация transform/opacity, давно известны и привычны. В докладе мы взглянем глубже на них, поговорим о том, к чему приводят пропущенные фреймы, как сгладить анимацию технически и визуально, какие есть инструменты разработки и отладки анимаций, а также о подходах и приёмах для достижения плавности.​<br /><br /><em>Дмитрий Шуранов, Tutu.ru</em></li>\n</ul><p><br /><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> офис компании Avito</p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>19:00 — сбор, 19:30 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/494044/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/7f0d677c-75f8-412e-b1c3-b9a9d29adc7c/-/preview/308x600/-/format/jpeg/poster_event_494044.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/7f0d677c-75f8-412e-b1c3-b9a9d29adc7c/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Лесная 7",
+    "coordinates": [
+      "55.778669",
+      "37.587964"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 980301,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 7,
+      "sale_ends_at": "2017-05-24T16:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"494044\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"494044\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2017-05-24T16:00:00+0300",
+    "tickets_total": 253,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

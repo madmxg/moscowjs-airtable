@@ -1,0 +1,158 @@
+{
+  "id": 465895,
+  "created_at": "2017-03-24T10:56:32+0300",
+  "starts_at": "2017-03-30T19:00:00+0300",
+  "ends_at": "2017-03-30T21:30:00+0300",
+  "name": "MoscowJS 36",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru\nВ этот раз MoscowJS проходит при поддержке компаний Superjob &amp;amp; DigitalHR.",
+  "description_html": "<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>Доклады:</strong></span><br />\n </p>\n\n<ul><li class=\"p1\"><span style=\"font-size:16px;\">PreJSS: универсальный адаптер CSS в JSS</span><br /><br />\n\tПоследние 6 месяцев в глобальном JavaScript-сообществе очень много шума происходит вокруг библиотек CSS-in-JS. Это неудивительно. Но уже более 30 популярных решений. Почему возник такой интерес к этому \"странному\" подходу? Какие перспективы у данного подхода? Какие плюсы и минусы на практике есть у JSS? Когда не стоит использовать JSS? Мы поговорим про всё это и кое-что ещё.<br /><br /><em>Денис Измайлов, Axept</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Тестирование скриншотами: проблемы и решения</span><br /><br />\n\tРазберём, зачем нужно тестирование скриншотами; какие инструменты можно использовать; как можно решить типичные проблемы.<br /><br /><em>Александр Савин, SuperJob</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.</span><br /><br />\n\t\"Все мы любим React за декларативность, наглядность и простоту. Технология дает нам так много, но вводит свои ограничения. Одно из самых болезненных - каскадный рендер. Я расскажу, как отрисовать React-компоненты в произвольном узле дом-дерева, сделать самые универсальные на свете попапы и тултипы, сохранить пропсы, контекст, публичный API и рассудок.\"<br /><br /><em>Иван Лягушкин, Альфа-Лаборатория</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Бенчмарки, почему всё плохо и что делать</span><br /><br />\n\tПочему микробенчмарки это больше зло чем добро, что с этим делать, и как быть уверенным в том, что оптимизация которую вы сделали год назад всё ещё приносит вам пользу.<br /><br /><em>Михаил Бусырев, Crazy Panda</em></li>\n</ul><p><br /><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> офис компании Superjob - ул. Малая Дмитровка, 20, БЦ «Школа журналистов», 3 этаж.</p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>19:00 — сбор, 19:30 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p><img alt=\"\" src=\"https://ucare.timepad.ru/a9355f19-f5f5-415f-8b46-ff3d6cec0c8a/-/format/jpeg/-/quality/lighter/\" /></p>",
+  "url": "https://moscowjs.timepad.ru/event/465895/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/24738665-6334-4f99-a570-1316dfa31564/-/preview/308x600/-/format/jpeg/poster_event_465895.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/24738665-6334-4f99-a570-1316dfa31564/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Малая Дмитровка, 20, БЦ «Школа журналистов», 3 этаж",
+    "coordinates": [
+      "55.771839",
+      "37.605256"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 185,
+  "ticket_types": [
+    {
+      "id": 910013,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 12,
+      "sale_ends_at": "2017-03-29T15:00:00+0300",
+      "sale_starts_at": "2017-03-24T11:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question1983793",
+      "name": "Компания",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "question1983794",
+      "name": "Должность",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"465895\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"465895\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2017-03-29T15:00:00+0300",
+    "tickets_total": 173,
+    "tickets_limit": "185",
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

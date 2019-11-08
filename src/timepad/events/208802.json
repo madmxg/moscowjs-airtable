@@ -1,0 +1,135 @@
+{
+  "id": 208802,
+  "created_at": "2015-05-17T11:19:42+0300",
+  "starts_at": "2015-05-28T19:00:00+0300",
+  "name": "MoscowJS 22",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"color:#696969\">Scroll down for engish</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:18px\"><strong>Доклады:</strong></span></p>\r\n\r\n<ul>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Инженерные данные в Web: Autodesk View and Data API</span><br />\r\n\t<br />\r\n\tПредоставление доступа через Web к данным CAD-систем &ndash; геометрии и свойствам сложно структурированных моделей &ndash; всегда было весьма непростой задачей.<br />\r\n\t<br />\r\n\tМы представим Autodesk View and Data web service &ndash; одно из решений, которое претендует на самое широкое применение в этой области. Его REST API предназначен для выгрузки и подготовки к стримингу моделей самых разных исходных форматов (60+). JavaScript API предоставляет инструментарий для организации интерактивного просмотра 2D- и 3D-моделей и их инженерных данных непосредственно в web браузере без необходимости привлекать &laquo;родные&raquo; тяжеловесные CAD.<br />\r\n\t<br />\r\n\tВладимир Ананьев, Autodesk<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Segmentation fault</span><br />\r\n\t<br />\r\n\tПопробуем разобраться, как писать нативные модули с поддержкой разных версий nodejs и iojs. Как можно полноценно использовать IDE для их разработки и отладки. Ключевые слова: nan, nad, node-gyp, cmake.js.<br />\r\n\t<br />\r\n\tАлександр Иноземцев, Headhunter<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Windows 10 и Project Westminster: когда сайты превращаются в приложения, а JavaScript получает доступ в систему</span><br />\r\n\t<br />\r\n\tОдна из новых концепций Windows 10 и платформы UWP (Universal Windows App) &ndash; это возможность расширить функциональность веб-сайта за счет интеграции с операционной системой. Вы получаете не только возможность опубликовать &laquo;упакованный&raquo; сайт в магазин приложений, но и доступ к системной функциональности.<br />\r\n\t&nbsp;\r\n\t<p class=\"p1\">Константин Кичинский, Microsoft</p>\r\n\t</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Кодовая база CSS: избавляемся от головной боли</span><br />\r\n\t&nbsp;\r\n\t<p>&quot;Все мы хотим сосредоточиться на бизнес-логике, но стили всегда отвлекают и являются источником мороки. Хочется навести в них порядок, не внедряя тяжеловесный БЭМ, но как ни старайся, стили неизменно снова превращаются в кашу.</p>\r\n\r\n\t<p>Я предлагаю ряд радикальных, но простых правил, соблюдение которых навсегда избавит вас от головной боли, связанной со стилями.&quot;</p>\r\n\t<br />\r\n\t&ndash; Андрей Михайлов, <a href=\"http://hell-o-baby.com\">Hell&#39;o Baby</a><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Шаблонизация, как дедушка завещал</span><br />\r\n\t<br />\r\n\tВ поисках Идеального Веб-Шаблонизатора поговорим об их истории, типах и свойствах.<br />\r\n\t<br />\r\n\tАлексей Ярошевич, Dalee Digital Agency<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Место проведения:</strong></span> офис компании Autodesk</p>\r\n\r\n<p><span style=\"border:0px; font-size:16px; margin:0px; padding:0px\"><strong>Время:&nbsp;</strong></span>19:00 &mdash; сбор, 19:30 &mdash; доклады</p>\r\n\r\n<p><span style=\"color:#FF0000\"><span style=\"font-size:18px\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"color:#696969\">English version</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:18px\"><strong>Talks:</strong></span></p>\r\n\r\n<ul>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Ingineering data in Web: Autodesk View and Data API</span><br />\r\n\t<br />\r\n\tVladimir Ananyev, Autodesk<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Segmentation fault</span><br />\r\n\t<br />\r\n\tWe will try to figure out, how to write native modules, that support different versions of nodejs and iojs. How to use IDE to develop and debug this kind of modules. Keywords: nan, nad, node-gyp, cmake.js<br />\r\n\t<br />\r\n\tAleksandr Inozemcev, Headhunter<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Windows 10 and Project Westminster: when web sites turn into allplications and Javascript gets access to the system</span><br />\r\n\t<br />\r\n\tOne of the fresh concepts in Windows 10 and UWP platform (Universal Windows App) is the ability to extend web-site functionality by integrating it with OS. Not only you get an opportunity to publish a &laquo;packaged&raquo; site in app store, but also access to system APIs.<br />\r\n\t&nbsp;\r\n\t<p class=\"p1\">Konstantin Kichinskiy, Microsoft<br />\r\n\t&nbsp;</p>\r\n\t</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">CSS code base: getting rid of headache</span><br />\r\n\t&nbsp;\r\n\t<p>&quot;We all want to concentrate on writing business logic, but styles always get in the way. We want to tidy them, without introducing heavy BEM, but no matter how hard we try, styles invariably turn into mess.</p>\r\n\r\n\t<p>I offer a set of radical but simple rules, that will save you from headache cased by styles.&quot;</p>\r\n\t<br />\r\n\t&ndash; Andrey Mikhaylov,&nbsp;<a href=\"http://hell-o-baby.com\">Hell&#39;o Baby</a><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Tempating, as grandpa bequeathed</span><br />\r\n\t<br />\r\n\tWe&#39;ll talk about history of template engines, their types and properties while searching for The Ideal Engine.<br />\r\n\t<br />\r\n\tAleksey Yaroshevich, Dalee Digital Agency<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Venue:</strong></span>&nbsp;Autodesk office</p>\r\n\r\n<p><span style=\"border:0px; font-size:16px; margin:0px; padding:0px\"><strong>Time: </strong></span>19:00 <span>&mdash;&nbsp;</span>doors, 19:30 &mdash; доклады</p>\r\n\r\n<p><span style=\"color:rgb(255,0,0)\"><span style=\"font-size:18px\"><strong>Don&#39;t forget your ID or drivers license!</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/208802/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/d0dc91fa-4ebd-4f6f-9978-a5f9ad03e776/-/preview/308x600/-/format/jpeg/poster_event_208802.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/d0dc91fa-4ebd-4f6f-9978-a5f9ad03e776/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Москва, ул. Ивана Франко, 8, БЦ &quot;Кутузов Тауэр&quot;\r\n17 этаж, офис Autodesk",
+    "coordinates": [
+      "55.727891",
+      "37.449641"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 210,
+  "ticket_types": [
+    {
+      "id": 344928,
+      "name": "Входной билет",
+      "description": "",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 4,
+      "sale_ends_at": "2015-05-28T08:00:00+0300",
+      "sale_starts_at": "2015-05-17T06:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "closed"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"208802\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"208802\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2015-05-28T08:00:00+0300",
+    "tickets_total": 196,
+    "tickets_limit": "210",
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

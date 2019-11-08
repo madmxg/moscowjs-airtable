@@ -1,0 +1,136 @@
+{
+  "id": 117056,
+  "created_at": "2014-04-08T00:30:58+0400",
+  "starts_at": "2014-04-22T19:30:00+0400",
+  "ends_at": "2014-04-22T22:30:00+0400",
+  "name": "MoscowJS 10th",
+  "description_short": "10ая встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение.\nНаш сайт: moscowjs.ru",
+  "description_html": "<p><strong><span style=\"font-size:16px;\">Доклады:</span></strong></p>\n\n<ul><li><span style=\"font-size:14px;\"><strong>Как работает Javascript в мобильных приложениях на примере Tizen</strong></span><br /><br />\n\tО жизненном цикле web-приложений в мобильных устройствах, как работают некоторые функции javascript и как писать энергоэффективные приложения.<br /><br />\n\t​Кирилл Данилов<br />\n\tMobile Platform Evangelist, Samsung Electronics Russia<br />\n\t </li>\n\t<li>​<span style=\"font-size:14px;\"><strong>Пишем \"Excel\" на AngularJS: 2000 watchers не предел</strong></span><br />\n\t \n\t<p>“Мы пересаживаем заказчика с Excel на полноценное приложение с кучей удобных плюшек, которые Excel предложить не может. Как следствие, у нас сплошные финансовые рассчеты, большинство из которых хоть и просты, но очень многочисленны и должны выполняться мгновенно при вводе чисел.<br />\n\tЗа почти год разработки мы выработали несколько простых правил, которые позволили нам оптимизировать приложение и сделать его достаточно быстрым.”<br /><br />\n\t​— Миша Башкиров<br />\n\tВедущий разработчик, AT Consulting</p>\n\t</li>\n\t<li>\n\t<p><strong><span style=\"font-size:14px;\">React: архитектура для построения модульных UI компонентов</span></strong><br /><br />\n\t  - Что такое React и какое место он занимает среди Backbone, Angular, Ember и Web Components. Краткий обзор экосистемы React.<br />\n\t <br />\n\t  - Практики разработки максимально переиспользуемых и расширяемых UI компонентов с React. Как обобщить эти практики на архитектуру всего приложения.<br />\n\t <br />\n\t  - Почему неизменяемые данные делают ваше React приложение быстрым, устойчивым к ошибкам и позволяют с легкостью реализовать сложную функциональность, например такую как undo/redo.<br /><br />\n\tАндрей Попп</p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:14px;\"><strong>Как мы начали работать со статикой (js/css/img) и уменьшили трафик на наш CDN в три раза</strong></span><br /><br />\n\t“Два года назад мы начали активно развивать нашу деплой-систему, и довольно быстро начали релизить код два раза в день. При этом обнаружилась проблема: мы всегда генерирали новую версию для всех статических файлов (js/css/img), что заставляло пользователей загружать заново всю «статику» при каждом деплое. Чтобы ускорить отдачу статики пользователям, мы перешли на пофайловое версионирование статических файлов и смогли сократить трафик на наши CDN-сервера в 3 раза (примерно до 500 Мбит/сек). Расскажем о том как мы это сделали.”<br /><br />\n\t— Юрий Насретдинов<br />\n\tPHP-разработчик, Badoo<br />\n\t </p>\n\t</li>\n</ul><p><strong><span style=\"font-size:16px;\">Место проведения: </span></strong>офис компании Badoo</p>\n\n<p><span style=\"font-size:16px;\"><strong>Время: </strong></span>19:40 — пицца, 20:00 — доклады</p>\n\n<p> </p>\n\n<p><span style=\"color:#000000;\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/117056/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/cf9a4c4f-9d93-48f7-8287-7dd274218cda/-/preview/308x600/-/format/jpeg/poster_event_117056.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/cf9a4c4f-9d93-48f7-8287-7dd274218cda/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Офис компании Badoo, м.Трубная, Цветной бульвар 2, БЦ &quot;Легенда Цветного&quot;, подъезд около кафе Osteria Uno",
+    "coordinates": [
+      "Москва",
+      " Цветной бульвар",
+      " д. 2"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 105,
+  "ticket_types": [
+    {
+      "id": 170492,
+      "name": "Регистрация",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 1,
+      "sale_ends_at": "2014-04-21T01:00:00+0400",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"117056\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"117056\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2014-04-21T01:00:00+0400",
+    "tickets_total": 104,
+    "tickets_limit": "105",
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

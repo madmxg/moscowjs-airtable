@@ -1,0 +1,134 @@
+{
+  "id": 669032,
+  "created_at": "2018-02-19T10:58:09+0300",
+  "starts_at": "2018-03-01T18:45:00+0300",
+  "ends_at": "2018-03-01T21:30:00+0300",
+  "name": "MoscowJS 40",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p> </p>\n\n<p><span style=\"color:rgb(0,0,0);font-size:14px;\">Ссылку на прямую трансляцию митапа ищите в день мероприятия на YouTube канале AvitoTech.</span></p>\n\n<p><a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fc%2FAvitoTech&amp;h=ATNcxcY1nFoKdoFWO7_flnfnQ6PLS0rD33Ipq4fJ-qJjGR5cZ1OHQU-IEPNEl5zLULkv_18FbJe4q_A5NAD9A7mi7sEoYVUSLRnEwjoiGX4XRzB9u4L1dGV_ubS5zQdmCVxI2mNXp1W4b0fJpFc\" target=\"_blank\">https://www.youtube.com/c/AvitoTech</a></p>\n\n<p> </p>\n\n<p><strong>Доклады:</strong></p>\n\n<p> </p>\n\n<ul><li class=\"p1\"><span style=\"font-size:16px;\">Скриншоты как сервис​</span><br /><br />\n\tРасскажу про мотивацию и трудности создания сервиса скриншотов веб-страниц на базе headless chrome и puppeteer. Наличие готовых инструментов еще не означает наличие готового сервиса.​<br /><br /><em>Сергей Мелюков​, Avito</em><br /><br /><a href=\"https://www.youtube.com/watch?v=B_gLzbgJo98&amp;index=3&amp;t=0s&amp;list=PLknJ4Vr6efQHuRIJmhlCaIFkkbK6iAiGn\"><img alt=\"\" src=\"https://ucare.timepad.ru/00f73b84-8094-4825-bb3c-612c64f18f26/-/format/jpeg/-/quality/lighter/\" /></a><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Как начать использовать AST</span><br /><br />\n\tВ докладе я хочу осветить вопрос использования AST-парсеров для автоматизации рутины во фронтенде. Основная цель доклада — развеять мнение, будто использование AST — это rocket science.<br /><br /><em>Иван Стрелков​, Avito</em><br /><br /><a href=\"https://www.youtube.com/watch?v=qnol1QVvYu0&amp;index=4&amp;list=PLknJ4Vr6efQHuRIJmhlCaIFkkbK6iAiGn\"><img alt=\"\" src=\"https://ucare.timepad.ru/00f73b84-8094-4825-bb3c-612c64f18f26/-/format/jpeg/-/quality/lighter/\" /></a><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">DX w/ Flow</span><br /><br />\n\tПоговорим про DX и Flow. Как с помощью типизации можно увеличить свою продуктивность и повысить качество продукта. <br /><br />\n\tАлександр Лобашев​<em>, Raiffeisen​</em><br /><br /><a href=\"https://www.youtube.com/watch?v=PKmqTiiPEw4&amp;index=2&amp;list=PLknJ4Vr6efQHuRIJmhlCaIFkkbK6iAiGn\"><img alt=\"\" src=\"https://ucare.timepad.ru/00f73b84-8094-4825-bb3c-612c64f18f26/-/format/jpeg/-/quality/lighter/\" /></a><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Обработка текстов в JavaScript для чайников​</span><br /><br />\n\tКоммуникация в виде текстовой информации является наиболее частым из используемых способов общения между людьми и интерфейсами в интернете. Для обработки подобной информации обычно используются решения, которые написаны на языке Python или R, но разработчики не ограничены этими языками для решения прикладных задач. В своем докладе я покажу, как, например, можно с помощью родного JavaScript исправлять ошибки в словах, понимать, к какой части речи они относятся, правильно их склонять или как классифицировать тексты между собой и понимать, на каком человеческом языке они были написаны.<br /><br /><em>Дмитрий Шмаков​, Открытие​</em><br /><br /><a href=\"https://www.youtube.com/watch?v=ATmtPyLmMdY&amp;list=PLknJ4Vr6efQHuRIJmhlCaIFkkbK6iAiGn&amp;index=1\"><img alt=\"\" src=\"https://ucare.timepad.ru/00f73b84-8094-4825-bb3c-612c64f18f26/-/format/jpeg/-/quality/lighter/\" /></a></li>\n</ul><p><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> офис компании Avito</p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>18:45 — сбор, 19:15 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n",
+  "url": "https://moscowjs.timepad.ru/event/669032/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/aff4bc52-f6ee-416c-ade7-a6493d68fd65/-/preview/308x600/-/format/jpeg/poster_event_669032.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/aff4bc52-f6ee-416c-ade7-a6493d68fd65/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Лесная, д. 7",
+    "coordinates": [
+      "55.778669",
+      "37.587964"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 1479681,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 26,
+      "sale_ends_at": "2018-02-28T16:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": "16",
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"669032\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"669032\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2018-02-28T16:00:00+0300",
+    "tickets_total": 234,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

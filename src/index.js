@@ -27,7 +27,7 @@ function loadResourse(tableName) {
     .then(tableData => {
       const filePath = resolve('out', `${tableName.toLowerCase()}.json`);
       const normalizedData = normalize(tableName, tableData);
-      fs.writeJSON(filePath, normalizedData);
+      return fs.writeJSON(filePath, normalizedData);
     })
     .then(() => console.log('complete', tableName));
 }

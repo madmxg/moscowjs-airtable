@@ -1,0 +1,149 @@
+{
+  "id": 903948,
+  "created_at": "2019-02-06T16:31:40+0300",
+  "starts_at": "2019-02-21T19:00:00+0300",
+  "ends_at": "2019-02-21T21:30:00+0300",
+  "name": "MoscowJS 44",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"font-size:20px;\">МЕСТА ЗАКОНЧИЛИСЬ!</span></p>\n\n<p><span style=\"font-size:20px;\">Если кто-то откажется от участия, регистрация автоматически откроется и можно будет занять освободившееся место. После 19-го февраля регистрация будет окончательно закрыта.</span></p>\n\n<p> </p>\n\n<p><strong>Не забудьте взять с собой паспорт или права!</strong></p>\n\n<p><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></p>\n\n<p> </p>\n\n<p>Ссылка на трансляцию: <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fc%2FAvitoTech&amp;h=ATNcxcY1nFoKdoFWO7_flnfnQ6PLS0rD33Ipq4fJ-qJjGR5cZ1OHQU-IEPNEl5zLULkv_18FbJe4q_A5NAD9A7mi7sEoYVUSLRnEwjoiGX4XRzB9u4L1dGV_ubS5zQdmCVxI2mNXp1W4b0fJpFc\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.youtube.com/watch?v=ro6RlJnCWE0&amp;feature=youtu.be</a></p>\n\n<p> </p>\n\n<p>Программа мероприятия может быть изменена по усмотрению организаторов.</p>\n\n<p> </p>\n\n<h4><span style=\"font-size:22px;\"><strong>Расписание</strong></span></h4>\n\n<p> </p>\n\n<p><strong>18:45 </strong>Регистрация</p>\n\n<p><strong>19:15 </strong>Доклад: \"Бойлерплейтинг в Авито\" – Денис Колесников</p>\n\n<p><strong>19:40 </strong>Доклад: \"Обзор форматов сжатия протокольного уровня в http.\" – Михаил Бусырев​</p>\n\n<p><strong>20:05 </strong>Перерыв </p>\n\n<p><strong>20:25 </strong>Доклад: \"Acceptance testing и BDD с помощью Cucumber\" – Андрей Михайлов</p>\n\n<p><strong>21:15 </strong>Завершение мероприятия. Афтепати.</p>\n\n<p> </p>\n\n<p><span style=\"font-size:22px;\"><strong>Доклады</strong></span></p>\n\n<p> </p>\n\n<ul><li>Бойлерплейтинг в Авито<br /><br />\n\tШаблонный код, конфигурация проекта, сборки, тестов и различных линтеров постоянно доставляет массу неприятностей, переходит в рутину и плодит техдолг. В докладе я расскажу как в Авито мы разработали несколько инструментов, которые помогли побороть рутину и сделали настройку нового проекта, как и поддержку уже существующих, максимально простыми.<br /><br /><em>Денис Колесников​, Avito</em><br /><br />\n\t </li>\n\t<li>Обзор форматов сжатия протокольного уровня в http.<br /><br />\n\tДоклад ответит на вопросы, какие форматы сжатия существуют в веб и чем они отличаются, какие из них в каких браузерах поддерживаются, а также поговорим о том, как использовать их максимально эффективно в соттветствии с типами файлов.<br /><br /><em>Михаил Бусырев​, Crazy Panda</em><br />\n\t </li>\n\t<li>Acceptance testing и BDD с помощью Cucumber<br /><br />\n\tBDD позволяет убить двух зайцев: обеспечить качественное покрытие кода тестами и вплести тестирование в весь процесс разработки от задумки до деплоя. Cucumber — технология, имеющая ряд важных преимуществ. Расскажу про суть технологии, поделюсь опытом работы с ней и предложу конкретный подход, который поможет не уйти в дебри.<br /><br /><em>Андрей Михайлов</em>​<em>, Kaliber5</em></li>\n</ul><p><strong>Место проведения:</strong> офис компании Avito</p>\n\n<p><strong>Время: </strong>18:45 — сбор, 19:15 — доклады</p>\n\n<p><strong>Не забудьте взять с собой паспорт или права!</strong></p>\n\n<p><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></p>\n",
+  "url": "https://moscowjs.timepad.ru/event/903948/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/9d3ddbda-2d1c-4f39-9647-6996d91d65f2/-/preview/308x600/-/format/jpeg/poster_event_903948.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/9d3ddbda-2d1c-4f39-9647-6996d91d65f2/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Лесная, д. 7",
+    "coordinates": [
+      "55.778669",
+      "37.587964"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 2250086,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 17,
+      "sale_ends_at": "2019-02-20T10:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    },
+    {
+      "id": 2250092,
+      "name": "Дополнительный входной билет",
+      "description": "Билеты для докладчиков и активистов сообщества.",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": true,
+      "remaining": 5,
+      "sale_ends_at": "2019-02-20T16:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": "16",
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"903948\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"903948\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2019-02-20T16:00:00+0300",
+    "tickets_total": 278,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

@@ -1,0 +1,124 @@
+{
+  "id": 26943,
+  "created_at": "2012-05-30T21:25:07+0400",
+  "starts_at": "2012-06-08T19:00:00+0400",
+  "ends_at": "2012-06-08T22:00:00+0400",
+  "name": "MoscowJS 7th",
+  "description_short": "&lt;p&gt;Неформальная встреча JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.&lt;/p&gt;\r\n&lt;p&gt;\r\nВстреча будет состоять из докладов и, конечно, неформального общения.\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\nНаш сайт &lt;a href=&quot;http://moscowjs.ru&quot;&gt;moscowjs.ru&lt;/a&gt;\r\n&lt;/p&gt;",
+  "description_html": "<p>\r\n\tMoscowJS Meetup 7th состоится 08 июня (пятница) в 19:00 в здании Яндекса.<br />\r\n\tНадо заходить во второй подъезд. На ресепшене необходимо сказать свою фамилию. Вам нужен Зал №1.</p>\r\n<h2>\r\n\tДоклады:</h2>\r\n<ol>\r\n\t<li>\r\n\t\tДмитрий Смолин, мастер-класс: &quot;Создание крупных одностраничных приложений. По мотивам живого проекта.&quot;</li>\r\n\t<li>\r\n\t\tЗеленин Михаил: &quot;Knockout мягкое введение в шаблон MVVM&quot;</li>\r\n\t<li>\r\n\t\tБахчеев Иван: Реализация dataflow framework на javascript server side (nodejs) и client side (phonegap)</li>\r\n\t<li>\r\n\t\tСергей Рябенко: Введение в HTML5 технологии: Web Audio API + P2P JS API</li>\r\n</ol>\r\n<p>\r\n\tПятиминутка:</p>\r\n<p>\r\n\tЖелающие могут выступить с небольшим докладом на 5 минут (1-2 доклада).</p>\r\n<p>\r\n\tБонус:</p>\r\n<p>\r\n\tПланируется чай, кофе, печеньки.</p>",
+  "url": "https://moscowjs.timepad.ru/event/26943/",
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Льва Толстого, 16",
+    "coordinates": [
+      "55.733771",
+      "37.587937"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 30810,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2012-06-08T22:00:00+0400",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"26943\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"26943\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2012-06-08T22:00:00+0400",
+    "tickets_total": 87,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "0"
+}

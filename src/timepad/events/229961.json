@@ -1,0 +1,168 @@
+{
+  "id": 229961,
+  "created_at": "2015-08-05T14:55:49+0300",
+  "starts_at": "2015-08-29T10:00:00+0300",
+  "ends_at": "2015-08-29T19:00:00+0300",
+  "name": "Frontend Union Conf",
+  "description_short": "Конференция разработчиков интерфейсов в Москве / Frontend Conference in Moscow\n\nhttp://frontend-union.co/",
+  "description_html": "<p><strong>For English version see below</strong></p>\r\n\r\n<p>Frontend Union &ndash; это организация, которая объединяет несколько сообществ, с целью создать уникальную по опыту конференцию. Мы стремимся &nbsp;делиться знаниями и опытом в области технологий разработки интерфейсов. А также создать тёплую, дружелюбную атмосферу, в которой участники смогут знакомиться и общаться.</p>\r\n\r\n<p><strong>Доклады:</strong></p>\r\n\r\n<ul>\r\n\t<li>Сначала стайлгайд &mdash; подход к разработке UI компонентов<br />\r\n\t<span>Варвара Степанова</span><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Тестирование изоморфных React приложений<br />\r\n\t<span>Михаил Ларченко</span><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>XSS войны. Пробуждение силы<br />\r\n\t<span>Владимир Дашукевич</span><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Три истории о тестировании<br />\r\n\t<span>Марина Миронович</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Создание приложений для совместного редактирования документов с использованием DiffSync<br />\r\n\t<span>Jan Monschke</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Трое в лодке, не считая колбэка<br />\r\n\t<span>Сергей Жигалов</span><br />\r\n\t&nbsp;</li>\r\n\t<li><span>Прощай, jQuery!</span><br />\r\n\t<span>Зарема Халилова</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Чтобы зарегистрироваться на месте, пожалуйста, возьмите с собой удостоверение личности.</strong></span></p>\r\n\r\n<p><span>---</span></p>\r\n\r\n<p><span>Frontend Union is an organization, that brings together several communities to create unique conference. We focus on two things, sharing knowledge and experience in frontend development and creating a warm, friendly environment, where people can meet and discuss their ideas.</span></p>\r\n\r\n<p><strong>Talks:</strong></p>\r\n\r\n<ul>\r\n\t<li>Styleguide first &mdash; a new approach to UI component development<br />\r\n\t<span>Varvara Stepanova</span><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Testing Isomorphic React apps<br />\r\n\t<span>Mikhail Larchenko</span><br />\r\n\t&nbsp;</li>\r\n\t<li>XSS wars. The Force Awakens<br />\r\n\t<span>Vladimir Dashukevich</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Three stories about testing<br />\r\n\t<span>Marina Mironovich</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Create collaborative applications using diffsync<br />\r\n\t<span>Jan Monschke</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Three Men in a Boat (To Say Nothing of the Callback)<br />\r\n\t<span>Sergey Zhigalov</span><br />\r\n\t&nbsp;</li>\r\n\t<li>Goodbye, jQuery!<br />\r\n\t<span>Zarema Khalilova</span><span>​</span><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p><strong><span style=\"font-size:16px\">Please bring your Passport or ID Card to be able to register at the venue.</span></strong></p>",
+  "url": "https://moscowjs.timepad.ru/event/229961/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/159c25a8-1c0b-452b-bc0d-7279b8ef65fa/-/preview/308x600/-/format/jpeg/poster_event_229961.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/159c25a8-1c0b-452b-bc0d-7279b8ef65fa/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Офис компании Mail.ru, Ленинградский проспект 39, стр. 79",
+    "coordinates": [
+      "55.796926",
+      "37.537892"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 393038,
+      "name": "Входной билет",
+      "description": "",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 10,
+      "sale_ends_at": "2015-08-28T14:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question950050",
+      "name": "Город / City",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question950112",
+      "name": "Twitter",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "question950051",
+      "name": "Место работы / Place of work",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"229961\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"229961\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2015-08-28T14:00:00+0300",
+    "tickets_total": 810,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

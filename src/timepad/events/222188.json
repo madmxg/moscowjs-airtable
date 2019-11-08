@@ -1,0 +1,145 @@
+{
+  "id": 222188,
+  "created_at": "2015-07-07T08:21:31+0300",
+  "starts_at": "2015-07-30T19:00:00+0300",
+  "name": "MoscowJS 24",
+  "description_short": "1-й Научно-Исследовательский MoscowJS",
+  "description_html": "<p><span style=\"font-size:18px\"><strong>Доклады:</strong></span></p>\r\n\r\n<ul>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Flexbox - гибче мыслишь, больше спишь</span><br />\r\n\t<br />\r\n\tВремя блочной верстки подходит к концу. W3C приготовили нам модуль построения гибких интерфейсов - Flexible Box Layout Module. Сегодня 2015 год и многие браузеры поддерживают flexbox, а это значит что можно избавиться от лишнего кода и сделать нашу верстку более осмысленной и прозрачной.<br />\r\n\tЦель доклада подружить разработчиков с новым принципом верстки компонентов приложений. Нет весомых причин не пользоваться flexbox сейчас, а методика построения интерфейсов с его помощью выигрывает по трудозатратам и простоте.<br />\r\n\t<br />\r\n\tАлексей Чернышев, rg.ru<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Где еще живет скорость в web</span><br />\r\n\t<br />\r\n\tРассказ о том, что делать, а что, наоборот, не делать, чтобы работа с DOM и рендеринг стали быстрее.<br />\r\n\tНа примере одной (специально сломанной) анимации разберем проблемы и починим их.<br />\r\n\t<br />\r\n\tОлег Елифантьев, Тензор<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Как написать компилятор за 15 минут</span><br />\r\n\t<br />\r\n\tОчень часто приходится описывать различные объекты и программы с помощью предметно-специализированных языков программирования. В докладе будет рассказано, как можно разработать для своего языка программирования интерпретатор и компилятор в JavaScript с помощью популярного генератора парсеров Jison.<br />\r\n\t<br />\r\n\tАндрей Гершун, AlaSQL<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\">\r\n\t<p class=\"p1\"><span style=\"font-size:16px\"><span class=\"s1\">Готовим промисы правильно</span></span><br />\r\n\t<br />\r\n\tПромисы прочно вошли в ES-стандарт и жизнь современных JS-разработчиков.&nbsp;Однако многие, используя их чуть ли не каждый день, не до конца понимают,&nbsp;как они устроены. Какие опасности и возможности в себе&nbsp;кроют.&nbsp;Доклад&nbsp;освежит знания о промисах, предостережёт о нюансах реализаций и подскажет&nbsp;парочку трюков.<br />\r\n\t<br />\r\n\tАндрей Яманов, f<span class=\"s1\">reelancer</span></p>\r\n\r\n\t<p class=\"p1\">&nbsp;</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Место проведения:</strong></span>&nbsp;НИИ Восход</p>\r\n\r\n<p><span style=\"border:0px; font-size:16px; margin:0px; padding:0px\"><strong>Время:&nbsp;</strong></span>19:00 &mdash; сбор, 19:30 &mdash; доклады</p>\r\n\r\n<p><br />\r\n<span style=\"color:#FF0000\"><span style=\"font-size:18px\"><strong>Важно:</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:16px\"><span style=\"color:#000000\"><strong>К сожалению, в этот раз прийти смогут только&nbsp;граждане РФ.</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:16px\"><span style=\"color:#000000\"><strong>Обязательно нужно будет взять с собой паспорт.</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/222188/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/eca50bc4-56d3-40af-954a-071438f29a51/-/preview/308x600/-/format/jpeg/poster_event_222188.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/eca50bc4-56d3-40af-954a-071438f29a51/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Москва, ул. Удальцова, д. 85",
+    "coordinates": [
+      "55.683249",
+      "37.487397"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 376033,
+      "name": "Входной билет",
+      "description": "",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2015-07-29T19:00:00+0300",
+      "sale_starts_at": "2015-06-08T09:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "closed"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question916823",
+      "name": "Отчество",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"222188\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"222188\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2015-07-29T19:00:00+0300",
+    "tickets_total": 323,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

@@ -1,0 +1,153 @@
+{
+  "id": 443173,
+  "created_at": "2017-02-06T23:41:17+0300",
+  "starts_at": "2017-02-16T19:00:00+0300",
+  "ends_at": "2017-02-16T21:30:00+0300",
+  "name": "MoscowJS 35",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>Доклады:</strong></span><br />\n </p>\n\n<ul><li class=\"p1\"><span style=\"font-size:16px;\">Как не сломать обратную совместимость в Public API</span><br /><br />\n\tПредставьте что у вас есть публичный JavaScript API. Им пользуются сторонние девелоперы от Индии до Канады, чтобы писать свои облачные сервисы. Эти сервисы продают телекомуникационные компании с многомиллиардными оборотами превышающими стоимость вашей компании. Любая остановка сервиса - миллионные убытки. Представили? А нам и представлять не надо - это наша работа. Добро пожаловать в нашу реальность. В рамках доклада мы расскажем о том, как сохранить обратную совместимость при активном развитии и неизвестных пользователях, ну и причем тут вообще интерны.<br /><br /><em>Виктор Розаев, Odin (Ingram Micro)</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Как подружить дизайнеров с разработчиками? Система прототипирования на основе WebComponents.</span><br /><br />\n\t\"Виталик, а запили мне прототип! Ты ж программист - тут всего то одна простая формочка... Виталик, мы тут провели тестирование прототипа и выяснилось, что нам нужно внести две небольшие правочки… Ты ж программист ты за 5 минут сделаешь!\"<br />\n\tЯ думаю у многих в этой жизни случался подобный разговор с дизайнерами. Так как сделать, чтобы дизайнер перестал бояться кода? Как дать возможность ему провести UX тестирование не привлекая разработчика? Как сделать так, чтобы дизайнер и разработчик говорили на одном языке?<br /><br /><em>Виталий Грин, Альфа-Лаборатория</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">TypeScript 2 in action</span><br /><br />\n\tВ докладе речь пойдет об основных нововведениях TypeScript 2.0 и 2.1 (literal types, discriminated unions, mapped types...) и их использовании в реальных проектах.<br /><br /><em>Александр Русаков, Project 101</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Redux-saga на стероидах</span>\n\t<p>Опыт построения client-side фреймворка на базе redux-saga. Использован нестандартный подход к структурированию бизнес-логики приложения позволяющий добиться:<br />\n\t- высокой стабильности кода<br />\n\t- пригодности к распараллеливанию разработки на нескольких программистов через стандартизацию и высокую изолированность участков кода - модульность, другими словами<br /><br /><em>Евгений Евсеев, Level Up Developers</em></p>\n\t</li>\n</ul><p><br /><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> офис компании Odin (Ingram Micro)</p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>19:00 — сбор, 19:30 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>\n\n<p><img alt=\"\" src=\"https://ucare.timepad.ru/eb4e86b1-1981-47cc-98f7-dbccb0bdb578/-/format/jpeg/-/quality/lighter/-/resize/850x/\" /></p>",
+  "url": "https://moscowjs.timepad.ru/event/443173/",
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "г. Москва, Ленинградский проспект 15/18",
+    "coordinates": [
+      "55.780471",
+      "37.571507"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 853519,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 10,
+      "sale_ends_at": "2017-02-15T12:00:00+0300",
+      "sale_starts_at": "2017-02-11T12:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question1889221",
+      "name": "Название компании",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question1889222",
+      "name": "Должность",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"443173\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"443173\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2017-02-15T12:00:00+0300",
+    "tickets_total": 210,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

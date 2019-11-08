@@ -1,0 +1,163 @@
+{
+  "id": 854624,
+  "created_at": "2018-11-15T11:23:38+0300",
+  "starts_at": "2018-11-22T18:45:00+0300",
+  "ends_at": "2018-11-22T21:30:00+0300",
+  "name": "MoscowJS 43 DomClick",
+  "description_short": "Российское сообщество JavaScript разработчиков. Мы организуем конференции, митапы, дринкапы и другие встречи для наших участников. Нам интересно все, что связано с современным вебом и, конечно же, JavaScript. Сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"color:#000000;font-size:14px;\">Ссылку на прямую трансляцию митапа ищите в день мероприятия на странице мероприятия</span><br /><a href=\"https://www.moscowjs.ru/event/moscowjs-43\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.moscowjs.ru/event/moscowjs-43​</a></p>\n\n<p><span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">На данный момент все билеты разобраны. Вы сможете зарегистрироваться на мероприятие в случае, если кто-то откажется от регистрации.</span></span></p>\n\n<p><strong>РАСПИСАНИЕ МЕРОПРИЯТИЯ</strong></p>\n\n<p><strong>18:45</strong> Регистрация</p>\n\n<p><strong>19:15</strong> Доклад: \"Упаковка npm-модулей, которую мы заслужили\" – Денис Красновский​</p>\n\n<p><strong>19:40</strong> Доклад: \"Как не нужно создавать компоненты в большом приложении\" – Дарья Пушкарская</p>\n\n<p><strong>20:05</strong> Кофе-брейк</p>\n\n<p><strong>20:25</strong> Доклад: \"Let it flow\" – Екатерина Анишкина</p>\n\n<p><strong>20:50</strong> Доклад: \"WebAssembly и внешний мир\" – Сергей Рубанов</p>\n\n<p><strong>21:20</strong> Завершение мероприятия. Афтепати.</p>\n\n<p> </p>\n\n<p><strong>Доклады:</strong></p>\n\n<p> </p>\n\n<ul><li class=\"p1\"><strong><span style=\"font-size:16px;\">Упаковка npm-модулей, которую мы заслужили​</span></strong><br /><br />\n\tNPM - модули являются неотъемлемой частью наших приложений. Я предлагаю зайти за рамки использования и разобраться в том, с какими вызовами мы сталкиваемся при упаковке npm-пакетов. А после того как разберемся во внутренней кухне - взглянем на использование пакетов с другой , темной стороны.​<br /><br /><em>Денис Красновский​​, ДомКлик​</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><strong><span style=\"font-size:16px;\">Как не нужно создавать компоненты в большом приложении​</span></strong>\n\t<p>На примере создания реального компонента, я покажу, что может произойти, если разработка не участвует в спецификации и плохо налажены коммуникации между бизнесом, дизайном и разработкой. Создадим две альтернативных реальности создания компонента и посмотрим, чем все это кончится.</p>\n\tДарья Пушкарская​<em>​, Tinkoff.ru</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><strong><span style=\"font-size:16px;\">Let it flow</span></strong><br /><br />\n\tСтатическая типизация дает много преимуществ. Полгода назад мы начали использовать flow в проекте на React. Проверка типов облегчила поддержку проекта. Но, самое интересное, с какими проблемами мы встретились и как их решали. Об этом и расскажу подробно. Например, в каких случаях лучше полагаться на выведение типов, а когда описывать типы в явном виде.​<br /><br /><em>Екатерина Анишкина​, Offsidegaming​</em><br /><br />\n\t </li>\n\t<li class=\"p1\"><strong><span style=\"font-size:16px;\">WebAssembly и внешний мир​</span></strong><br /><br />\n\tО WebAssembly в вакууме говорят очень много. Но на самом деле его внутренние возможности уже вполне стабильны и теперь второстепенны. Теперь главное для WebAssembly — плотно интегрироваться со своим окружением. Обсудим текущее состояние дел, фичи в разработке и светлое будущее.​<br /><br /><em>Сергей Рубанов​​, BeerJS/Exantech​</em><br /><br />\n\t </li>\n</ul><p><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> Площадка компании ДомКлик, Кутузовский просп., 32, корп. 1. <span style=\"color:#000000;\">Необходимо подняться на 2 этаж по эскалатору рядом с \"Прайм\", пройти прямо и напротив столовой будет конференц зал.</span></p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>18:45 — сбор, 19:15 — доклады</p>\n\n<p><img alt=\"\" src=\"https://ucare.timepad.ru/4988a498-ef42-444e-965f-ae791d135838/-/format/jpeg/-/quality/lighter/-/resize/850x/\" /></p>\n\n<p><span style=\"color:#ff0000;font-size:20px;\">На данный момент все билеты разобраны. Вы сможете зарегистрироваться на мероприятие в случае, если кто-то откажется от регистрации.</span></p>\n",
+  "url": "https://moscowjs.timepad.ru/event/854624/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/4c547652-6724-46c5-9256-b50a2a7b8283/-/preview/308x600/-/format/jpeg/poster_event_854624.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/4c547652-6724-46c5-9256-b50a2a7b8283/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Кутузовский просп., 32, корп. 1",
+    "coordinates": [
+      "55.741358",
+      "37.53146"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 350,
+  "ticket_types": [
+    {
+      "id": 2084550,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 21,
+      "sale_ends_at": "2018-11-21T16:00:00+0300",
+      "sale_starts_at": "2018-11-15T12:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    },
+    {
+      "id": 2084560,
+      "name": "Дополнительный билет для активистов и докладчиков",
+      "description": "Если вы являетесь активистом сообщества или докладчиком, то вы можете получить билет на митап даже после закрытия регистрации. Напишите организаторам события по адресу team@moscowjs.ru и получите Промокод.",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": true,
+      "remaining": 2,
+      "sale_ends_at": "2018-11-21T16:00:00+0300",
+      "sale_starts_at": "2018-11-15T12:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "mandatory": true,
+        "blocked": true
+      }
+    },
+    {
+      "field_id": "question3623526",
+      "name": "Компания",
+      "comment": "указывать не обязательно",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": "16",
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"854624\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"854624\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2018-11-21T16:00:00+0300",
+    "tickets_total": 327,
+    "tickets_limit": "350",
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

@@ -1,0 +1,134 @@
+{
+  "id": 145411,
+  "created_at": "2014-09-10T14:00:59+0400",
+  "starts_at": "2014-09-25T19:00:00+0400",
+  "name": "MoscowJS 15",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Первая в новом сезоне! Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><strong><span style=\"font-size:16px;\">Доклады:</span></strong></p>\n\n<ul><li><span style=\"font-size:14px;\"><strong>CommonJS для браузера</strong><br /><br />\n\tОб устройстве CommonJS, работе с зависимостями и возможных проблемах, с которыми можно столкнуться.<br /><br />\n\tАнтон Шувалов, Rambler&amp;Co</span><br />\n\t </li>\n\t<li><span style=\"font-size:14px;\"><strong>Jaggery.js — сладкие корпоративные решения</strong><br /><br />\n\tЗнакомство с фреймворком от WSO2. Демонстрация подключения веб-сервиса.<br /><br />\n\tАлександр Новиков, <a href=\"http://t-platforms.ru/\" target=\"_blank\">ОАО \"Т-Платформы\"</a></span><br />\n\t </li>\n\t<li><span style=\"font-size:14px;\"><strong>Особенности разработки под SmartTV с использованием web-технологий, в том числе для video-on-demand</strong><br /><br />\n\tС чего начать, что понадобится для разработки под SmartTV. Типичные грабли при работе с телевизорами и как их избежать. Особенности платформы и общения с вендорами. Введение в принципы работы DRM.<br /><br />\n\tМихаил Лабанов, Онлайн-кинотеатр Аййо</span><br />\n\t </li>\n\t<li><span style=\"font-size:14px;\"><strong><span style=\"color:rgb(34,34,34);\">Dependency Injection. JavaScript.</span></strong><br /><br />\n\tДоклад о принципах инверсии контроля и его применении в JavaScript приложениях. В частности о шаблонах Dependency Injection и Service Locator.<br /><br />\n\tСергей Камардин, Тинькофф Кредитные Системы Банк (ТКС Банк)</span><br />\n\t​</li>\n</ul><p><strong><span style=\"font-size:16px;\">Место проведения: </span></strong>офис компании Mail.ru</p>\n\n<p><span style=\"font-size:16px;\"><strong>Время: </strong></span>19:00 — сбор, 19:30 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/145411/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/f8536b1c-b669-45c7-92ac-41d34b2ad1ec/-/preview/308x600/-/format/jpeg/poster_event_145411.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/f8536b1c-b669-45c7-92ac-41d34b2ad1ec/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Ленинградский проспект д.39, строение 79, БЦ «SkyLight»",
+    "coordinates": [
+      "Москва",
+      " Ленинградский проспект д.39",
+      " строение 79"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 219848,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 10,
+      "sale_ends_at": "2014-09-24T11:00:00+0400",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"145411\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"145411\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2014-09-24T11:00:00+0400",
+    "tickets_total": 240,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

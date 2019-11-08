@@ -1,0 +1,133 @@
+{
+  "id": 264617,
+  "created_at": "2015-11-10T23:46:55+0300",
+  "starts_at": "2015-11-26T19:00:00+0300",
+  "name": "MoscowJS 27",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"border:0px; font-size:18px; margin:0px; padding:0px\"><strong>Доклады:</strong></span></p>\r\n\r\n<ul style=\"border:0px; color:rgb(0, 0, 0); font-size:14px; margin:0px 0px 0px 20px\">\r\n\t<li class=\"p1\" style=\"border:0px; padding:0px\"><strong><span style=\"font-size:16px\">Enterprise разработка с помощью Node.js</span></strong>\r\n\r\n\t<p>В докладе будут освещены типовые задачи разработки корпоративных приложений и инструменты для их решения, доступные в эко-системе Node.js. Доклад будет полезен тем, кто занимается разработкой и внедрением корпоративных приложений (ERP, CRM, и т.д.), а также разработкой B2B продуктов.</p>\r\n\t<em>Павел Тиунов,&nbsp;<span>Toptal, AllcountJS</span></em><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\" style=\"border:0px; margin:0px; padding:0px\"><strong><span style=\"font-size:16px\">Пуленепробиваемая валидация форм в React</span></strong>\r\n\t<p>В наше время все, кому не лень обсуждают React. Пишут какие-то игрушечные приложения, показывают свои классные решения, компоненты. Хайп слышен со всех сторон, однако люди решают чаще технические задачи. А когда дело доходит до продуктовых задач, то каждый разработчик пишет либо свой велосипед, либо реиспользуемое решение, однако не всегда о нем есть возможность сообщить миру. Я поделюсь с вами прекрасным решением для валидации форм в React, которое создали вместе Кир @deepsweet Белевич и Денис @mistadikay Кольцов.</p>\r\n\t<em><span class=\"s1\" style=\"border:0px; margin:0px; padding:0px\">Антон Кузнецов,&nbsp;</span>Action Digital</em><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\" style=\"border:0px; margin:0px; padding:0px\"><span style=\"font-size:16px\"><strong>Доклад не про React</strong></span>\r\n\t<p>Во время разработки мы сталкиваемся с крайне странными решениями и нетривиальными подходами. Я попытался их собрать вместе, чтобы показать какие нестандартные решения мы применяем чтобы решать нестандартные задачи. Я покажу как можно использовать привычные инструменты не по прямому назначению и получать профит. Вот вам задачка: как можно построить структуру HTML по CSS? Правда ли, что postcss может все или как разобрать любой препроцессор?</p>\r\n\t<em>Антон Виноградов,&nbsp;CEO, The Protein Corp</em><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\" style=\"border:0px; margin:0px; padding:0px\"><span style=\"font-size:16px\"><strong>Web Audio API</strong></span>\r\n\t<p>Немного предистории. Помогу подружиться, проникнуться и все необходимое, чтобы приступить к реализации аудио в html5 приложении. Расскажу какой инструмент можно выбрать, пару интересных демо.</p>\r\n\t<em>Анатолий Найда,&nbsp;Andiks LTD</em></li>\r\n</ul>",
+  "url": "https://moscowjs.timepad.ru/event/264617/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/3d8f7701-06b1-4e96-8d48-eb86954cb87c/-/preview/308x600/-/format/jpeg/poster_event_264617.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/3d8f7701-06b1-4e96-8d48-eb86954cb87c/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "м. Смоленская, Большой Лёвшинский переулок, 1/11.\r\nArtec Group",
+    "coordinates": [
+      "+55.74367540053511",
+      "+37.59119019510609"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 465582,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2015-11-25T13:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"264617\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"264617\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "preapprove",
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2015-11-25T13:00:00+0300",
+    "tickets_total": 193,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

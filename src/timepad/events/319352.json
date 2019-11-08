@@ -1,0 +1,142 @@
+{
+  "id": 319352,
+  "created_at": "2016-04-15T13:38:00+0300",
+  "starts_at": "2016-04-28T19:00:00+0300",
+  "ends_at": "2016-04-28T22:00:00+0300",
+  "name": "MoscowJS 30",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p><span style=\"font-size:18px\"><strong>Доклады:</strong></span></p>\r\n\r\n<ul>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Введение в GraphQL и Relay </span>\r\n\r\n\t<p>Эта презентация для тех, кто хочет понять, что такое GraphQL и Relay, но кому не хватило времени попробовать их в деле.</p>\r\n\tСлинько Вячеслав, ЦИАН Групп<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Можно вообще всё. Раскладка по гриду</span><br />\r\n\t<br />\r\n\tВерстаете как юный бог на флексах или пасёте флоуты по углам &mdash; неважно. Когда-нибудь вам придётся перейти на грид-раскладки. Не просто инлайн-блоки на стероидах, как флексы, а принципиально новую систему, созданную специально для сложных раскладок. Понятное введение и примеры использования для реальных задач.<br />\r\n\t<br />\r\n\tВадим Макеев, Opera<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Быстрее, выше, сильнее в современной архитектуре</span><br />\r\n\t<br />\r\n\tРасскажу про опыт построения SPA с использованием современных технологий (react, redux, express). Акцент будет сделан на том, как выбранный стек помог повысить эффективность работы команды, а также работы над проектом в целом. В связи с этим расскажу про архитектуру приложения, какие нам видятся плюсы, а также сложности, с которыми успели столкнуться.<br />\r\n\t<br />\r\n\tКопылов Егор, Яндекс<br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\"><span class=\"s1\">Scala для супергеройского фронтенда</span></span>\r\n\t<p>Scala это не только сложно, но и просто! Сегодня, когда наступила весна, повсюду расцветают монады и аппликативные функторы, каждый фронтэнд-разработчик просто обязан узнать, как писать на этом замечательном языке. После доклада ваша жизнь разделится на эпоху до того как вы узнали о Scala и на эпоху после этого. Возможно вы больше не сможете писать на JavaScript и вас уволят. Но это того стоит!</p>\r\n\r\n\t<p>Scala транслируется в JavaScript. Почему Scala это проще чем кажется? Функциональное мышление и мышление с помощью типов. Невероятные сверхспособности Scala, которые вам даже не снились. Управление зависимостями и сборка проекта с помощью SBT. Добро пожаловать в мир полноценных IDE.</p>\r\n\tАлексей Фомкин, Флексис</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Место проведения:</strong></span>&nbsp;офис компании 2GIS (Нижний Сусальный переулок, 5 стр 16.)</p>\r\n\r\n<p><span style=\"border:0px; font-size:16px; margin:0px; padding:0px\"><strong>Время:&nbsp;</strong></span>19:00 &mdash; сбор, 19:30 &mdash; доклады</p>\r\n\r\n<p><span style=\"color:rgb(255, 0, 0)\"><span style=\"font-size:18px\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/319352/",
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Нижний Сусальный переулок, 5 стр 16.",
+    "coordinates": [
+      "55.75975",
+      "37.664958"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 581472,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 4,
+      "sale_ends_at": "2016-04-28T22:00:00+0300",
+      "is_active": false,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "deleted"
+    },
+    {
+      "id": 636253,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2016-04-28T22:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "draft"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"319352\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"319352\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2016-04-28T22:00:00+0300",
+    "tickets_total": 195,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

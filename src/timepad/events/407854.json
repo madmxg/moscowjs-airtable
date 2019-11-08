@@ -1,0 +1,133 @@
+{
+  "id": 407854,
+  "created_at": "2016-11-18T13:33:52+0300",
+  "starts_at": "2016-11-24T19:00:00+0300",
+  "ends_at": "2016-11-24T22:00:00+0300",
+  "name": "MoscowJS 34",
+  "description_short": "Встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p>Программа митапа уточняется. Всего будет 4 доклада.</p>\n\n<p><span style=\"font-size:18px;\"><strong>Доклады:</strong></span><br />\n </p>\n\n<ul><li class=\"p1\"><span style=\"font-size:16px;\">Reliable DOM testing with browser-monkey</span><br /><br />\n\tС ростом количества и сложности фронтенд кода, интеграционное тестирование в DOMе становится все более необходимым. В докладе освещается как писать надежные тесты используя библиотеку browser-monkey и как их потом запускать в разных окружениях (karma+browserify+chrome / electron+node / vdom+node).<br /><br /><em>Артем Аветисян, <span>Featurist</span></em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Basis.js - Production Ready SPA Framework</span><br /><br />\n\tВ докладе рассмотрены основные проблемы, возникающие при разработке SPA. Так же рассмотрены способы их решения на basis.js<br />\n\tЦель доклада - рассказать о basis.js и побудить слушателей попробовать данный фреймворк в деле и сделать свои выводы.<br /><br /><em><span>Сергей Мелюков</span>, Avito</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">E2E-тестирование мобильных приложений</span><br /><br />\n\tС годами задачи веб-разработчиков, находящихся на острие технологий, менялись. Когда-то основным фронтом работ были простые сайты, мода на flash, период красивых сайтов с великолепной анимацией, веб-приложения, а теперь мы сами беремся за разработку мобильных приложений на привычном нам стеке.<br />\n\tО том как тестируют мобильные приложения, и какие подводные камни существуют вы узнаете в этом докладе.<br /><br /><em><span>Антон Кузнецов</span>, Tipsi</em><br />\n\t </li>\n\t<li class=\"p1\"><span style=\"font-size:16px;\">Favicon на стероидах</span><br /><br />\n\tСделать фавиконку вашего сайта информативной и даже добавить простейшую анимацию - эта задача не такая уж и простая, как может показаться на первый взгляд. В своем докладе я расскажу, какие сложности могут возникнуть и какими интересными браузерными API придется воспользоваться, чтобы реализовать эту задачу.<br /><br /><em><span>Александр Амосов</span>, Avito</em></li>\n</ul><p><br /><span style=\"font-size:16px;\"><strong>Место проведения:</strong></span> офис компании Avito</p>\n\n<p><span style=\"border:0px;font-size:16px;margin:0px;padding:0px;\"><strong>Время: </strong></span>19:00 — сбор, 19:30 — доклады</p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p><span style=\"font-size:18px;\"><strong>ПРИ РЕГИСТРАЦИИ УКАЗЫВАЙТЕ ИМЯ И ФАМИЛИЮ КАК В ПАСПОРТЕ!!!</strong></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/407854/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/7c85dbd1-ba8e-4724-904c-396797e06c7e/-/preview/308x600/-/format/jpeg/poster_event_407854.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/7c85dbd1-ba8e-4724-904c-396797e06c7e/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "ул. Лесная 7",
+    "coordinates": [
+      "55.778669",
+      "37.587964"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 770691,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 12,
+      "sale_ends_at": "2016-11-24T22:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "closed"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"407854\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"407854\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2016-11-24T22:00:00+0300",
+    "tickets_total": 248,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

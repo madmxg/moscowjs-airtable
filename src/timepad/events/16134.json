@@ -1,0 +1,116 @@
+{
+  "id": 16134,
+  "created_at": "2011-12-02T22:01:10+0400",
+  "starts_at": "2011-12-06T19:00:00+0400",
+  "ends_at": "2011-12-06T22:00:00+0400",
+  "name": "Четвертый Moscow JavaScript Meetup",
+  "description_short": "&lt;p&gt;Неформальная встреча JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.&lt;/p&gt;\r\n&lt;p&gt;\r\nВстреча будет состоять из докладов и, конечно, неформального общения. Все, кто хочет сделать доклад, пишите (формат – 15 минут плюс 5 минут на вопросы).\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\nПрисоединяйтесь к &lt;a href=&quot;http://www.facebook.com/groups/261688937189348/&quot;&gt;нашей группе на Facebook&lt;/a&gt;!\r\n&lt;/p&gt;",
+  "description_html": "<p>Встреча будет проходить в офисе Яндекса.&nbsp;В здании два входа: основной (под аркой) и дополнительный (рядом с основным, в 15 метрах). Надо заходить в дополнительный, где написано \"Яндекс.Деньги\". На ресепшене сидят девушки, которые выдадут бейджики и скажут, куда идти.</p>",
+  "url": "https://moscowjs.timepad.ru/event/16134/",
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {},
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 17539,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 30,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2011-12-06T22:00:00+0400",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"16134\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"16134\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2011-12-06T22:00:00+0400",
+    "tickets_total": 62,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "0"
+}

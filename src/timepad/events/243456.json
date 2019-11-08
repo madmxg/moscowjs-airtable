@@ -1,0 +1,157 @@
+{
+  "id": 243456,
+  "created_at": "2015-09-07T23:20:08+0300",
+  "starts_at": "2015-09-24T19:00:00+0300",
+  "name": "MoscowJS 25",
+  "description_short": "Юбилейная 25-я встреча JavaScript-разработчиков Москвы. Вас ждет теплая уютная атмосфера офиса компании «QIWI», традиционно четыре доклада, море живого общения и, даже, небольшой сюрприз!",
+  "description_html": "<p><span style=\"font-size:18px\"><strong>Доклады:</strong></span></p>\r\n\r\n<ul>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\">Redux: the best for isomorphic apps</span><br />\r\n\t<br />\r\n\t<span class=\"s1\">Расскажу, почему Flux и его реализации устарели, как устроена архитектура Redux, а также про экосистему и будущее.</span><br />\r\n\t<br />\r\n\tДенис Измайлов,&nbsp;<a href=\"http://www.startup-makers.ru/\"><span class=\"s1\">Startup Makers</span></a><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\"><span class=\"s1\">Подход к написанию безопасного клиентского кода на примере React</span></span><br />\r\n\t<br />\r\n\t<span class=\"s1\">Поговорю о классификации клиентских уязвимостей, их типах, возможных векторах атак. О том, какие есть основные ошибки в проектировании фронт-энд приложений, приводящие к security-багам. Разберу архитектуры React в контексте безопасности.</span><br />\r\n\t<br />\r\n\t<span>Иван&nbsp;</span>Елкин, <a href=\"https://qiwi.ru/\">QIWI</a><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\"><span class=\"s1\">Изоморфный D3 + MALEVICH</span></span><br />\r\n\t<br />\r\n\t<span class=\"s1\">D3 - это не только ценный мех, но и очень полезный View Layer. Научу вас работать с D3 за 5 минут. Рендерить D3 на сервере и внутри WebWorkers. Расскажу о &quot;новом&quot; дизайн паттерне MALEVICH, созданном специально для D3, который может пригодиться как альтернатива Flux.</span><br />\r\n\t<br />\r\n\t<span class=\"s1\">Алексей Охрименко</span>, <a href=\"http://www.acronis.com/\"><span class=\"s1\">Acronis</span></a><br />\r\n\t&nbsp;</li>\r\n\t<li class=\"p1\"><span style=\"font-size:16px\"><span class=\"s1\">HTML5&nbsp;Cache Manifest на практике</span></span><br />\r\n\t<br />\r\n\t<span class=\"s1\">Расскажу и объясню как использовать cache manifest. О том, зачем он вообще нужен и чего позволяет добиться. Поведаю об основных проблемах при внедрении cache manifest и о том, как их решать.</span><br />\r\n\t<br />\r\n\t<span class=\"s1\">Дмитрий Головин</span>, <a href=\"http://andiks.com/\"><span class=\"s1\">Andiks</span></a></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:16px\"><strong>Место проведения:</strong></span>&nbsp;Офис Компании &laquo;<span>QIWI</span>&raquo;</p>\r\n\r\n<p><span style=\"border:0px; font-size:16px; margin:0px; padding:0px\"><strong>Время:&nbsp;</strong></span>19:00 &mdash; сбор, 19:30 &mdash; доклады</p>\r\n\r\n<p><span style=\"color:rgb(255, 0, 0)\"><span style=\"font-size:18px\"><strong>Паспорт&nbsp;обязателен для входа&nbsp;на митап!</strong></span></span></p>\r\n\r\n<p><span style=\"color:rgb(255, 0, 0)\"><span style=\"font-size:18px\"><strong>Также на входе будет необходимо подписать согласие на обработку персональных данных.</strong></span></span></p>",
+  "url": "https://moscowjs.timepad.ru/event/243456/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/b8ef57cf-ed07-415e-8e09-e00a0fbce43c/-/preview/308x600/-/format/jpeg/poster_event_243456.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/b8ef57cf-ed07-415e-8e09-e00a0fbce43c/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "Чертаново Северное, 1А корпус 1",
+    "coordinates": [
+      "55.637327",
+      "37.597702"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 150,
+  "ticket_types": [
+    {
+      "id": 418138,
+      "name": "Входной билет",
+      "description": "",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "remaining": 17,
+      "sale_ends_at": "2015-09-17T10:00:00+0300",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question1004738",
+      "name": "Отчество",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "question1004761",
+      "name": "Компания",
+      "comment": "Будет на бейджике рядом с ФИО",
+      "type": "text",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "mandatory": false
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"243456\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"243456\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2015-09-17T10:00:00+0300",
+    "tickets_total": 133,
+    "tickets_limit": "150",
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}

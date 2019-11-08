@@ -1,0 +1,133 @@
+{
+  "id": 132182,
+  "created_at": "2014-07-04T13:30:11+0400",
+  "starts_at": "2014-07-17T19:00:00+0400",
+  "name": "MoscowJS 13",
+  "description_short": "13 встреча JavaScript разработчиков Москвы. Доклады и, конечно, неформальное общение. Наш сайт: moscowjs.ru",
+  "description_html": "<p>​<span style=\"font-size:16px;\"><strong>Доклады:</strong></span></p>\n\n<ul><li><strong><span style=\"font-size:14px;\"><span style=\"color:rgb(62,69,76);\">Пара слов про WAMP</span></span></strong><br /><br />\n\tНебольшой доклад о протоколе WAMP, его устройстве и архитектуре. А так же о применении в современных веб-приложениях.<br /><br />\n\tКонстантин Буркалев<br />\n\t </li>\n\t<li><strong><span style=\"font-size:14px;\">Разработка мобильных приложений на HTML5/CSS3/JS</span></strong><br /><br />\n\tКак создавать кросс-платформенные native-like приложения для iOS и Android c необходимым уровнем быстродействия. Нахождение проблемных мест и оптимизация кода.<br /><br /><span style=\"color:rgb(34,34,34);\">Илья Орлов, Технический Директор </span><a href=\"http://looi.ru/\" target=\"_blank\">looi.ru</a><br />\n\t </li>\n\t<li><span style=\"font-size:14px;\"><strong>Around the Gulp</strong></span><br /><br />\n\tИстория перехода с Grunt на Gulp в крупном проекте. Краткий обзор плагинов, решение типовых (и не очень) задач с их помощью.<br /><br />\n\tАндрей Яманов<br />\n\t </li>\n\t<li><strong><span style=\"font-size:14px;\"><span style=\"color:rgb(34,34,34);\">Swarm.js: реактивная синхронизация данных</span></span></strong><br /><br />\n\tТакие продвинутые возможности приложения, как обновление данных в<br />\n\tреальном времени, совместная работа, оффлайн, кэширование и<br />\n\thandover/continuity упираются в одну проблему — синхронизацию реплик<br />\n\tданных.<br />\n\tНаша смелая мечта — писать такие распределённые приложения,<br />\n\tкак простое MVC, работая лишь с локальной репликой модели и<br />\n\tделегировав синхронизацию специальному middleware.<br />\n\tВ докладе я расскажу, что такое CRDT и как библиотека Swarm.js<br />\n\tпозволяет строить реактивные архитектуры, реализующие все эти<br />\n\tвозможности (с демонстрацией).<br /><br />\n\tВиктор Грищенко, ООО Ситреа<br />\n\t </li>\n</ul><p><strong><span style=\"font-size:16px;\">Место проведения:</span></strong><span style=\"font-size:14px;\"> офис Dream Industries, площадка DI Telegraph</span></p>\n\n<p><span style=\"font-size:16px;\"><strong>Время: </strong></span><span style=\"font-size:14px;\">19:00 — сбор, 19:30 — доклады</span></p>\n\n<p><span style=\"color:rgb(255,0,0);\"><span style=\"font-size:18px;\"><strong>Не забудьте взять с собой паспорт или права!</strong></span></span></p>\n\n<p> </p>",
+  "url": "https://moscowjs.timepad.ru/event/132182/",
+  "poster_image": {
+    "default_url": "https://ucare.timepad.ru/5ad1cc5b-b90e-41ca-bd2f-459fd3ec840e/-/preview/308x600/-/format/jpeg/poster_event_132182.jpg",
+    "uploadcare_url": "//ucare.timepad.ru/5ad1cc5b-b90e-41ca-bd2f-459fd3ec840e/"
+  },
+  "ad_partner_percent": 0,
+  "locale": "ru",
+  "location": {
+    "country": "Россия",
+    "city": "Москва",
+    "address": "г. Москва, ул. Тверская, д. 7, вход со стороны Газетного переулка, 9 подъезд, 6 этаж.",
+    "coordinates": [
+      "г. Москва",
+      " ул. Тверская",
+      " д. 7"
+    ]
+  },
+  "organization": {
+    "id": 3723,
+    "name": "MoscowJS",
+    "description_html": "Неформальная встреча JavaScript разработчиков. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.",
+    "url": "https://moscowjs.timepad.ru/",
+    "logo_image": {
+      "default_url": "https://ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/-/preview/308x600/-/format/jpeg/logo_org_3723.jpg",
+      "uploadcare_url": "//ucare.timepad.ru/6582df25-fd85-4d9d-bdde-8c7aab0fdfc3/"
+    },
+    "subdomain": "moscowjs"
+  },
+  "categories": [
+    {
+      "id": 452,
+      "name": "ИТ и интернет"
+    }
+  ],
+  "tickets_limit": 0,
+  "ticket_types": [
+    {
+      "id": 196566,
+      "name": "Входной билет",
+      "buy_amount_min": 1,
+      "buy_amount_max": 1,
+      "price": 0,
+      "is_promocode_locked": false,
+      "sale_ends_at": "2014-07-17T10:00:00+0400",
+      "is_active": true,
+      "ad_partner_profit": 0,
+      "send_personal_links": true,
+      "status": "late"
+    }
+  ],
+  "questions": [
+    {
+      "field_id": "mail",
+      "name": "E-mail",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "surname",
+      "name": "Фамилия",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "name",
+      "name": "Имя",
+      "comment": "",
+      "type": "text",
+      "is_mandatory": true,
+      "is_for_every_visitor": false,
+      "meta": {
+        "comment": "",
+        "blocked": true,
+        "mandatory": true
+      }
+    },
+    {
+      "field_id": "subscribe_digest",
+      "name": "Хочу получать рекомендации интересных событий от TimePad",
+      "type": "check",
+      "is_mandatory": false,
+      "is_for_every_visitor": false,
+      "meta": {
+        "block": true
+      }
+    }
+  ],
+  "age_limit": 16,
+  "widgets": {
+    "custom": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"132182\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+    },
+    "button": {
+      "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"132182\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+    }
+  },
+  "properties": [
+    "simple_registration",
+    "timepad_letter_checkbox"
+  ],
+  "moderation_status": "not_moderated",
+  "access_status": "public",
+  "registration_data": {
+    "price_max": 0,
+    "price_min": 0,
+    "sale_ends_at": "2014-07-17T10:00:00+0400",
+    "tickets_total": 262,
+    "is_registration_open": false
+  },
+  "is_sending_free_tickets": false,
+  "reservation_period": "48"
+}
